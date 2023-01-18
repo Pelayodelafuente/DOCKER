@@ -15,8 +15,10 @@ subes todo, haces el comit y despues el push
 
 y cuando este todo correcto hacer el merge
 
-trabajar en la rama hasta acabar el ejercicio 2 y luego subirlo
+trabajar en la rama hasta acabar el ejercicio 2 y luego subirlo todo arriba
 
+
+**hacer la rama con git branch y git checkout para ir a ella, despues haces el ejercicio y haces git add ., git commit - m "mensaje", git push origin nombrerama**
 
 ## EJERCICIOS
 
@@ -30,6 +32,6 @@ trabajar en la rama hasta acabar el ejercicio 2 y luego subirlo
 
 ![](imagenesEjercicio1/imagen4.png)
 
-![](imagenesEjercicio1/imagen5.png)
+![](imagenesEjercicio1/imagen6.png)
 
 
