@@ -15,7 +15,21 @@ subes todo, haces el comit y despues el push
 
 y cuando este todo correcto hacer el merge
 
+trabajar en la rama hasta acabar el ejercicio 2 y luego subirlo
+
 
 ## EJERCICIOS
+
+1. Descarga las siguientes imágenes: `ubuntu:18.04`, `httpd`, `tomcat:9.0.39-jdk11`,`jenkins/jenkins:lts`, `php:7.4-apache`.
+
+![](imagenesEjercicio1/imagen1.png)
+
+![](imagenesEjercicio1/imagen2.png)
+
+![](imagenesEjercicio1/imagen3.png)
+
+![](imagenesEjercicio1/imagen4.png)
+
+![](imagenesEjercicio1/imagen5.png)
 
 
