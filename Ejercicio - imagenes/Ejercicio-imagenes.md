@@ -34,4 +34,47 @@ trabajar en la rama hasta acabar el ejercicio 2 y luego subirlo todo arriba
 
 ![](imagenesEjercicio1/imagen6.png)
 
+2. Muestras las imágenes que tienes descargadas.
+
+`docker images`
+
+![](imagenesEjercicio1/imagen7.png)
+
+3. Crea un contenedor demonio con la imagen php:7.4-apache.
+
+`docker run -d --name contenedorDemonio -p 8080:80 php:7.4-apache bash`
+
+![](imagenesEjercicio1/imagen13.png)
+
+4. Comprueba el tamaño del contenedor en el disco duro.
+
+`docker ps -a -s`
+
+![](imagenesEjercicio1/imagen12.png)
+
+5. Con la instrucción docker cp podemos copiar ficheros a o desde un contenedor. Puedes encontrar información es esta página. Crea un fichero en tu ordenador, con el siguientec ontenido:
+
+Copia un fichero `info.php` al directorio `/var/www/html` del contenedor con docker cp.
+
+![](imagenesEjercicio1/imagen14.png)
+
+`docker cp /home/daw/info.php contenedorDemonio:/var/www/html/.`
+
+![](imagenesEjercicio1/imagen16.png)
+
+6. Vuelve a comprobar el espacio ocupado por el contenedor.
+
+`docker ps -a -s`
+
+![](imagenesEjercicio1/imagen15.png)
+
+7. Accede al fichero info.php desde un navegador web.
+
+`localhost:8080/info.php`
+
+![](imagenesEjercicio1/imagen17.png)
+
+
+
+
 
