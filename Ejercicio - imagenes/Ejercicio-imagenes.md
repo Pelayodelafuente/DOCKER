@@ -17,6 +17,8 @@ y cuando este todo correcto hacer el merge
 
 trabajar en la rama hasta acabar el ejercicio 2 y luego subirlo todo arriba
 
+1: creas una rama git checkout -b nombre y haces los ejercicios, despues haces git add . y git commit, despues git push origin nombrederama y una vez subidos, desde la rama main haces git pull para actualizar el repositorio local
+
 
 **hacer la rama con git branch y git checkout para ir a ella, despues haces el ejercicio y haces git add ., git commit - m "mensaje", git push origin nombrerama**
 
