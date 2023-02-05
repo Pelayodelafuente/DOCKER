@@ -3,4 +3,4 @@ Ejercicios de imágenes: [https://github.com/Pelayodelafuente/DOCKER/tree/main/E
 
 Ejercicios de almacenamiento: [https://github.com/Pelayodelafuente/DOCKER/tree/main/EjercicioAlmacenamiento]
 
-Ejercicios de redes:
+Ejercicios de redes: [https://github.com/Pelayodelafuente/DOCKER/tree/main/EjercicioRedes]
